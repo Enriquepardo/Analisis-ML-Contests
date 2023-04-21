@@ -1,6 +1,7 @@
 # Analisis-ML-Contests
 ## Datos
-  integrantes: Claudia, Alejandro, Enrique Pardo, Martina /link_repo:
+  integrantes: Claudia, Alejandro, Enrique Pardo, Martina 
+  link_repo: https://github.com/Enriquepardo/Analisis-ML-Contests.git
   
 ## Tarea
   <em>Objetivo</em>
