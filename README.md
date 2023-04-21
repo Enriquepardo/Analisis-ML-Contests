@@ -1,6 +1,6 @@
 # Analisis-ML-Contests
 ## Datos
-  integrantes:Claudia,Enrique Pardo ,Martina /link_repo:
+  integrantes: Claudia, Alejandro, Enrique Pardo, Martina /link_repo:
   
 ## Tarea
   <em>Objetivo</em>
